@@ -1,0 +1,22 @@
+header: 
+  seq: 1939
+  stamp: 
+    secs: 1548820799
+    nsecs: 219477613
+  frame_id: "base_imu_link"
+orientation: 
+  x: 0.8571
+  y: 0.513
+  z: 0.0467
+  w: 0.0102
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.0434586983747
+  y: 0.067369709127
+  z: 0.674744288821
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.2941995
+  y: 0.392266
+  z: -8.9240515
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
